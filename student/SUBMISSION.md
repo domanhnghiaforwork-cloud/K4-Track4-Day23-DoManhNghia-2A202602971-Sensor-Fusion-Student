@@ -4,10 +4,10 @@
 
 ## Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Link repo (fork):
+- Họ tên: Đỗ Mạnh Nghĩa
+- MSSV: 2A202602971
+- Email: domanhnghiaforwork@gmail.com
+- Link repo (fork): https://github.com/domanhnghiaforwork-cloud/K4-Track4-Day23-DoManhNghia-2A202602971-Sensor-Fusion-Student
 - Commit hash nộp (`git rev-parse HEAD`):
 
 ## Tóm tắt kết quả
